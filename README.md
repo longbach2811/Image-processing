@@ -9,7 +9,7 @@
 (1) Các phương pháp đã sử dụng, lý do chọn phương pháp đó.
 (2) Hiển thị kết quả, so sánh và nhận xét kết quả của các phương pháp đã nêu.
 (3) Code sinh viên đã viết để thực hiện các phương pháp trên.
-Sinh viên chọn 01 trong 02 bài sau:
+## Sinh viên chọn 01 trong 02 bài sau:
 ## Câu 3: Phân vùng ảnh
 Thực hiện phân vùng ảnh với ảnh final3.jpg. Đơn giản nhất, sinh viên có thể thực hiện phân vùng ảnh dựa trên thông tin màu sắc của các điểm ảnh (pixels) trong ảnh đã cho. Trong báo cáo, sinh viên cần:
 (1) Trình bày phương pháp sinh viên lựa chọn.
